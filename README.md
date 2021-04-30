@@ -1,8 +1,4 @@
-<p align="center">
-  
-  <img src="https://github.com/littlebru/littlebru/blob/main/images/greetings.png" width="450">
-  
-</p>
+
 
 <p align="center">
   
