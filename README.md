@@ -8,6 +8,19 @@
 
 
 
+<!--
+👾Main mission👾<br/>
+🏆1º Semestre: Status {Concluido}<br/>
+🏆2º Semestre: Status {Concluido}<br/>
+🏆3º Semestre: Status {Concluido}<br/>
+🏆4º Semestre: Status {Concluido}<br/>
+🏆5º Semestre: Status {Concluido}<br/>
+🏆6º Semestre: Status {Concluido}<br/>
+🏆Trabalho de Graduação: Status {Concluido}<br/>
+🔴Estágio: Status {Procurando} <br/>
+-->
+
+
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&hide_border=true)
