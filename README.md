@@ -9,8 +9,6 @@
 <img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/totoro-nature.gif" width="200px">
 
 <p align="left">
-  <br>
-  
   <h4>I'm Bruna Gomes <i>( littlebru )</i></h4>
   
    - Intern at <a href="https://www.linkedin.com/company/ericsson/mycompany/">Ericsson</a> <br>
