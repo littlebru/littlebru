@@ -10,9 +10,11 @@
 
 <p align="left">
   <br>
-  I'm Bruna Gomes <i>(littlebru)</i><br>
-    - Intern at Ericsson <br>
-    - Studying Systems Analysis and Development at Fatec
+  
+  <h4>I'm Bruna Gomes <i>( littlebru )</i></h4>
+  
+   - Intern at <a href="https://www.linkedin.com/company/ericsson/mycompany/">Ericsson</a> <br>
+   - Studying Systems Analysis and Development at <a href="https://www.linkedin.com/company/fatecsjc/?originalSubdomain=br">Fatec</a>
 </p>
 
 Find me: <br>
