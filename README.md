@@ -20,7 +20,6 @@ Find me: <br>
 [
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/bru-gomes)
 [![Gmail Badge](https://img.shields.io/badge/Email-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mewmewdevart@gmail.com)](mailto:brunaclegomes@outlook.com)
-<img src="https://github.com/littlebru/littlebru/blob/main/images/dino-love.gif" width="30px" alt="a dino saying love">
 
 
 
