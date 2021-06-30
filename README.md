@@ -1,6 +1,6 @@
 
 <p align="center">
-<img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/greetings.png" width="300px">
+<img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/greetings.png" width="600px">
 </p>
 
 <img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-line.png">
