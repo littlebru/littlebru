@@ -29,8 +29,7 @@
   
 <details>
   <summary align="left">
-    <img src="https://github.com/littlebru/littlebru/blob/main/images/heart-pink.png" width="16.5px">  
-    About Me
+    <img src="https://github.com/littlebru/littlebru/blob/main/images/heart-pink.png" width="15px">    About Me
   </summary> <br>
  
  -  <img src="https://github.com/littlebru/littlebru/blob/main/images/cute-girl.gif" width="20px">   I am very **empathetic**, **creative** and **observer**.
