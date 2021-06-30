@@ -6,7 +6,7 @@
 <img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-line.png">
 
 
-<img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/totoro-nature.gif" width="220px">
+<a href="https://en.wikipedia.org/wiki/My_Neighbor_Totoro"><img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/totoro-nature.gif" alt="Totoro" width="200px"></a>
 
 <p align="left">
   <h4>I'm Bruna Gomes <i>( littlebru )</i></h4>
@@ -49,9 +49,9 @@
 ![C#](https://img.shields.io/badge/-.Net%20Core-7159c1?style=flat-square&logo=csharp)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-7159c1?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-7159c1?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-7159c1?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-7159c1?style=flat-square&logo=react&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/-CSS3-7159c1?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-7159c1?style=flat-square&logo=javascript&logoColor=white)<br>
+![React](https://img.shields.io/badge/-React-7159c1?style=flat-square&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7159c1?style=flat-square&logo=bootstrap&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-7159c1?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-7159c1?style=flat-square&logo=mongodb&logoColor=white)
