@@ -22,7 +22,7 @@
    - Studying Systems Analysis and Development at <a href="https://www.linkedin.com/company/fatecsjc/?originalSubdomain=br">Fatec</a>
 </p>
 
-<img align="left" src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-bar.png" width="500px">
+<img align="left" src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-line.png" width="500px">
 
   <br>
   
@@ -30,7 +30,7 @@
 <details>
   <summary align="left">
     <img src="https://github.com/littlebru/littlebru/blob/main/images/heart-pink.png" width="16.5px">  
-    <b>About Me</b>
+    About Me
   </summary> <br>
  
  -  <img src="https://github.com/littlebru/littlebru/blob/main/images/cute-girl.gif" width="20px">   I am very **empathetic**, **creative** and **observer**.
@@ -41,20 +41,24 @@
 
 <details>
  <summary align="left">
- 💙 <b>Technologies and tools  </b>
+ 💙 Technologies and tools
   </summary> <br>
  
 ![Java](https://img.shields.io/badge/-Java-7159c1?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/-C%20Sharp-7159c1?style=flat-square&logo=csharp)
 ![C#](https://img.shields.io/badge/-.Net%20Core-7159c1?style=flat-square&logo=csharp)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-7159c1?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-7159c1?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-7159c1?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-7159c1?style=flat-square&logo=react&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/-CSS3-7159c1?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7159c1?style=flat-square&logo=bootstrap&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-7159c1?style=flat-square&logo=microsoft-sql-server&logoColor=white)<br>
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-7159c1?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-7159c1?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-7159c1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-7159c1?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-7159c1?style=flat-square&logo=docker&logoColor=white)<br>
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-7159c1?style=flat-square&logo=oracle&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-7159c1?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-7159c1?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-7159c1?style=flat-square&logo=github&logoColor=white)
 
@@ -62,17 +66,17 @@
 
 <details>
   <summary align="left">
- 💛 <b>Best Projects</b>
+ 💛 Best Projects
   </summary> <br>
  
-  - <a href="https://github.com/littlebru/Realidade_Virtual-VR">✈<b> Airplane Door build simulator </b></a>
-  - <a href="https://github.com/littlebru/Estrutura-de-Dados">🎲<b> Data structure - is it worth sorting?</b></a>
-  - <a href="https://github.com/littlebru/arome">🍝<b> aröme</b></a>
+  - <a href="https://github.com/littlebru/Realidade_Virtual-VR">✈ Airplane Door build simulator</a>
+  - <a href="https://github.com/littlebru/Estrutura-de-Dados">🎲 Data structure - is it worth sorting?</a>
+  - <a href="https://github.com/littlebru/arome">🍝 aröme</a>
 </details>
 
 <details>
   <summary align="left">
-   🖤<b>Github Profile Stats</b>  
+   🖤 Github Profile Stats
   </summary> <br>
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&hide_border=true&theme=react)
