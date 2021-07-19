@@ -6,7 +6,9 @@
 <img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-line.png">
 
 
-<a href="https://en.wikipedia.org/wiki/My_Neighbor_Totoro"><img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/totoro-nature.gif" alt="Totoro" width="200px"></a>
+<a href="https://en.wikipedia.org/wiki/My_Neighbor_Totoro">
+  <img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/totoro-nature.gif" alt="Totoro" width="200px">
+</a>
 
 <p align="left">
   <h4>I'm Bruna Gomes <i>( littlebru )</i></h4>
@@ -77,37 +79,14 @@
   <summary align="left">
    🖤 Github Profile Stats
   </summary> <br>
+  
+ 
+   <img src="https://github-readme-stats.vercel.app/api?username=littlebru&count_private&count_private&include_all_commits=true&show_icons=true&theme=react" width="48%" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebru&layout=compact&theme=react&hide=jupyter%20notebook,html" width="40%" />
+  
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=littlebru&theme=react" width="48%" />
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&hide_border=true&theme=react)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlebru&layout=compact&theme=react&hide=jupyter%20notebook,html)](https://github.com/littlebru/github-readme-stats)
+ 
+
   
 </details>
-
-<!--
-![Github stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&hide_border=true)
-<details>
- <summary align="left"><b>About Me 👩🏽</br></summary>
- 
- - ✌️ I am very **empathetic**, **creative** and **observer**. 🕵🏿‍♀️
- - 🎮 Projects: Game creator and developer of [Defenda a Festa de Iemanjá](https://www.gamereporter.com.br/defenda-a-festa-de-iemanja/).
- - 💬 Speaker: I speak Portuguese, Brazilian Sign Language and I know a little English.
- - 🧠 Studying: Learning about **C language, developing some games in C# and JavaScript**.
- - ⚡ Fun fact: I have random knowledge about many things and love to talk about conspiracy theories. 
- - 🏳️‍🌈 Community : I volunteer as a content creator for Social Media for [SampaDiversa](https://www.linkedin.com/company/sampadiversa).
-</details>
-
-
-
-**littlebru/littlebru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
