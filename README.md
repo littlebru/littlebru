@@ -50,7 +50,7 @@
 ![C#](https://img.shields.io/badge/-.Net%20Core-7159c1?style=flat-square&logo=csharp)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-7159c1?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-7159c1?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-7159c1?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-7159c1?style=flat-square&logo=css3)<br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7159c1?style=flat-square&logo=bootstrap&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-7159c1?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-7159c1?style=flat-square&logo=mongodb&logoColor=white)
