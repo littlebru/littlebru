@@ -7,7 +7,7 @@
 
 
 <a href="https://en.wikipedia.org/wiki/My_Neighbor_Totoro">
-  <img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/totoro-nature.gif" alt="Totoro" width="200px">
+  <img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/vasinhos.gif" alt="Totoro" width="200px">
 </a>
 
 <p align="left">
