@@ -88,3 +88,5 @@
 
   
 </details>
+
+![snake game](https://github.com/littlebru/littlebru/blob/main/animations/github-contribution-grid-snake.svg)
