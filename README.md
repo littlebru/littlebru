@@ -1,32 +1,22 @@
 
 <p align="center">
-<img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/greetings.png" width="600px">
+<img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/greetings.png" width="650px">
 </p>
 
 <img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-line.png">
 
+<img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/cat.gif" alt="Cat with Coffee" width="230px">
 
-<a href="https://en.wikipedia.org/wiki/My_Neighbor_Totoro">
-  <img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/vasinhos.gif" alt="Totoro" width="200px">
-</a>
 
 <p align="left">
-  <h4>I'm Bruna Gomes <i>( littlebru )</i></h4>
   
-  
-  [
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/bru-gomes)
-[![Gmail Badge](https://img.shields.io/badge/Email-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mewmewdevart@gmail.com)](mailto:brunaclegomes@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/bru-gomes)
+[![email Badge](https://img.shields.io/badge/Email-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:brunaclegomes@hotmail.com)](mailto:brunaclegomes@hotmail.com)
+[![]()]()
 
-
-  
-   - Intern at <a href="https://www.linkedin.com/company/ericsson/mycompany/">Ericsson</a> <br>
-   - Studying Systems Analysis and Development at <a href="https://www.linkedin.com/company/fatecsjc/?originalSubdomain=br">Fatec</a>
 </p>
 
-<img align="left" src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-line.png" width="500px">
-
-  <br>
+<br>
   
   
 <details>
@@ -34,10 +24,33 @@
     <img src="https://github.com/littlebru/littlebru/blob/main/images/heart-pink.png" width="15px">    About Me
   </summary> <br>
  
+  - 🐶❤ Animal lover
+  - <img src="https://github.com/littlebru/littlebru/blob/main/images/cat-eat.gif" width="20px">  I'm eating all the time
+  - <img src="https://github.com/littlebru/littlebru/blob/main/images/dino-love.gif" width="25px"> Pixel art lover  
+  - 🤓 All the time learn something new
+  
+  <br>
+  
  -  <img src="https://github.com/littlebru/littlebru/blob/main/images/cute-girl.gif" width="20px">   I am very **empathetic**, **creative** and **observer**.
- -  💬 Speaker: I speak Portuguese, English and I know a little Spanish language.
- -  🧠 Studying: Learning DevOps Technologies
- -  ⚡Fun fact: I have random knowledge about many things and I love gifs and colors (I think you've already noticed lol :P) 
+ -  💬 I speak Portuguese, English and I know a little Spanish language.
+ -  ⚡Fun fact: I also like to talk about different subjects and I like gifs (I think you've already noticed lol :P) 
+  
+  <br>
+  
+</details>
+
+<details>
+   <summary align="left">
+💜 Career
+  </summary> <br>
+  
+   - 📡 Engineering and Industry 4.0 Intern at <a href="https://www.linkedin.com/company/ericsson/mycompany/">Ericsson</a> <br>
+   - 📒 Undergraduate student in systems analysis and development at <a href="https://www.linkedin.com/company/fatecsjc/?originalSubdomain=br">Fatec</a>
+  
+  -  🧠 Currently studying ![Kubernetes](https://img.shields.io/badge/-Kubernetes-7159c1?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-7159c1?style=flat-square&logo=docker&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-7159c1?style=flat-square&logo=Linux&logoColor=white)
+  
+  <br>
+  
 </details>
 
 <details>
@@ -54,8 +67,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7159c1?style=flat-square&logo=bootstrap&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-7159c1?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-7159c1?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-7159c1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-7159c1?style=flat-square&logo=docker&logoColor=white)<br>
+![MySQL](https://img.shields.io/badge/-MySQL-7159c1?style=flat-square&logo=mysql&logoColor=white)<br>
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-7159c1?style=flat-square&logo=oracle&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-7159c1?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-7159c1?style=flat-square&logo=git&logoColor=white)
@@ -90,3 +102,4 @@
 </details>
 
 ![snake game](https://github.com/littlebru/littlebru/blob/main/animations/github-contribution-grid-snake.svg)
+
