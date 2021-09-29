@@ -10,9 +10,12 @@
 
 <p align="left">
   
+  I'm very glad to see you here!!!<br>
+  I'm Bruna Gomes, a software developer in training.<br><br>
+  You can find my projects here on <a href="https://github.com/littlebru?tab=repositories">**GitHub**</a> and you can also find me on the web:
+  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/bru-gomes)
 [![email Badge](https://img.shields.io/badge/Email-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:brunaclegomes@hotmail.com)](mailto:brunaclegomes@hotmail.com)
-[![]()]()
 
 </p>
 
@@ -23,17 +26,14 @@
   <summary align="left">
     <img src="https://github.com/littlebru/littlebru/blob/main/images/heart-pink.png" width="15px">    About Me
   </summary> <br>
- 
-  - 🐶❤ Animal lover
-  - <img src="https://github.com/littlebru/littlebru/blob/main/images/cat-eat.gif" width="20px">  I'm eating all the time
-  - <img src="https://github.com/littlebru/littlebru/blob/main/images/dino-love.gif" width="25px"> Pixel art lover  
-  - 🤓 All the time learn something new
-  
-  <br>
   
  -  <img src="https://github.com/littlebru/littlebru/blob/main/images/cute-girl.gif" width="20px">   I am very **empathetic**, **creative** and **observer**.
  -  💬 I speak Portuguese, English and I know a little Spanish language.
  -  ⚡Fun fact: I also like to talk about different subjects and I like gifs (I think you've already noticed lol :P) 
+  
+  - 🐶❤ Animal lover
+  - <img src="https://github.com/littlebru/littlebru/blob/main/images/dino-love.gif" width="35px"> Pixel art lover  
+  - 🤓 All the time learn something new
   
   <br>
   
