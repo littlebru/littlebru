@@ -44,7 +44,6 @@
 💜 Career
   </summary> <br>
   
-   - 📡 Engineering and Industry 4.0 Intern at <a href="https://www.linkedin.com/company/ericsson/mycompany/">Ericsson</a> <br>
    - 📒 Undergraduate student in systems analysis and development at <a href="https://www.linkedin.com/company/fatecsjc/?originalSubdomain=br">Fatec</a>
   
   -  🧠 Currently studying ![Kubernetes](https://img.shields.io/badge/-Kubernetes-7159c1?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-7159c1?style=flat-square&logo=docker&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-7159c1?style=flat-square&logo=Linux&logoColor=white)
