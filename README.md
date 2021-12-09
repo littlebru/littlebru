@@ -82,6 +82,7 @@
   - <a href="https://github.com/littlebru/Realidade_Virtual-VR">✈ Airplane Door build simulator</a>
   - <a href="https://github.com/littlebru/Estrutura-de-Dados">🎲 Data structure - is it worth sorting?</a>
   - <a href="https://github.com/littlebru/arome">🍝 aröme</a>
+  - <a href="https://github.com/littlebru/Identify-unique-user">🤖 Identify Unique User (IA) </a>
 </details>
 
 <details>
