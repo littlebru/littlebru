@@ -103,3 +103,7 @@
 
 ![snake game](https://github.com/littlebru/littlebru/blob/main/animations/github-contribution-grid-snake.svg)
 
+
+<!-- link do curriculo Lattes para colocar no site (http://lattes.cnpq.br/5451191965271927) -->
+
+
