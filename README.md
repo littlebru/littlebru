@@ -44,7 +44,7 @@
 💜 Career
   </summary> <br>
    
-   - 💼 Software Developer Intern at <a href="http://fotosensores.com">Fotosensores Tecnologias</a>
+   - 🚦 Software Developer Intern at <a href="http://fotosensores.com">Fotosensores Tecnologias</a>
   
    - 📒 Undergraduate student in systems analysis and development at <a href="https://www.linkedin.com/company/fatecsjc/?originalSubdomain=br">Fatec</a>
   
