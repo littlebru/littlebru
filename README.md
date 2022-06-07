@@ -24,15 +24,15 @@
   
 <details>
   <summary align="left">
-    <img src="https://github.com/littlebru/littlebru/blob/main/images/heart-pink.png" width="15px">    About Me
+    <img src="https://github.com/littlebru/littlebru/blob/main/images/heart-pink.png" width="15">    About Me
   </summary> <br>
   
- -  <img src="https://github.com/littlebru/littlebru/blob/main/images/cute-girl.gif" width="20px">   I am very **empathetic**, **creative** and **observer**.
+ -  <img src="https://github.com/littlebru/littlebru/blob/main/images/cute-girl.gif" width="20">   I am very **empathetic**, **creative** and **observer**.
  -  💬 I speak Portuguese, English and I know a little Spanish language.
  -  ⚡Fun fact: I also like to talk about different subjects and I like gifs (I think you've already noticed lol :P) 
   
   - 🐶❤ Animal lover
-  - <img src="https://github.com/littlebru/littlebru/blob/main/images/dino-love.gif" width="35px"> Pixel art lover  
+  - <img src="https://github.com/littlebru/littlebru/blob/main/images/dino-love.gif" width="35"> Pixel art lover  
   - 🤓 All the time learn something new
   
   <br>
