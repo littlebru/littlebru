@@ -5,7 +5,7 @@
 
 <img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-line.png">
 
-<img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/dino-love.gif" alt="Dino Google" width="250">
+<img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/nyanCat.gif" alt="Adventures Time" width="280">
 
 
 <p align="left">
@@ -74,6 +74,7 @@
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-7159c1?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-7159c1?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-7159c1?style=flat-square&logo=github&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-7159c1?style=flat-square&logo=postgreSQL&logoColor=white)
 
 </details>
 
@@ -84,8 +85,9 @@
  
   - <a href="https://github.com/littlebru/Realidade_Virtual-VR">✈ Airplane Door build simulator</a>
   - <a href="https://github.com/littlebru/Estrutura-de-Dados">🎲 Data structure - is it worth sorting?</a>
-  - <a href="https://github.com/littlebru/arome">🍝 aröme</a>
   - <a href="https://github.com/littlebru/Identify-unique-user">🤖 Identify Unique User (IA) </a>
+  - <a href="https://github.com/littlebru/Linguagem-C">🧠 Learning C </a>
+  - <a href="https://github.com/littlebru/arome">🍝 aröme</a>
 </details>
 
 <details>
@@ -97,7 +99,6 @@
    <img src="https://github-readme-stats.vercel.app/api?username=littlebru&count_private&count_private&include_all_commits=true&show_icons=true&theme=react" width="48%" />
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebru&layout=compact&theme=react&hide=jupyter%20notebook,html" width="40%" />
   
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=littlebru&theme=react" width="48%" />
 
  
 
