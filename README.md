@@ -16,7 +16,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/bru-gomes)
 [![email Badge](https://img.shields.io/badge/Email-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:brunaclegomes@hotmail.com)](mailto:brunaclegomes@hotmail.com)
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://invite.duolingo.com/BDHTZTB5CWWKTH7MKFMH4YSVIM)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/_littlebru)
 
 </p>
 
