@@ -45,6 +45,8 @@
    <summary align="left">
 💜 Career
   </summary> <br>
+  
+  <a href="https://www.linkedin.com/in/bru-gomes/"><img align="left" src="https://github.com/littlebru/littlebru/blob/main/images/linkedinBanner.png" width="300"></a>
    
    - 🚦 Software Developer Intern at <a href="http://fotosensores.com">Fotosensores Tecnologias</a>
   
@@ -54,7 +56,11 @@
   
   <br>
   
+  <br>
+  
 </details>
+
+
 
 <details>
  <summary align="left">
