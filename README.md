@@ -5,7 +5,7 @@
 
 <img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-line.png">
 
-<img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/cat-eat.gif" alt="Adventures Time" width="240">
+<img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/cat-eat.gif" alt="Adventures Time" width="200">
 
 
 <p align="left">
@@ -29,13 +29,13 @@
     <img src="https://github.com/littlebru/littlebru/blob/main/images/heart-pink.png" width="15">    About Me
   </summary> <br>
   
- -  <img src="https://github.com/littlebru/littlebru/blob/main/images/cute-girl.gif" width="20">   I am very **empathetic**, **creative** and **observer**.
- -  💬 I speak Portuguese, English and I know a little Spanish language.
- -  ⚡Fun fact: I also like to talk about different subjects and I like gifs (I think you've already noticed lol :P) 
+ -  I am very **empathetic**, **creative** and **observer**.  <img src="https://github.com/littlebru/littlebru/blob/main/images/tech.gif" width="35">
+ -  I speak Portuguese, English and I know a little Spanish language. 💬 
+ -  Fun fact: I also like to talk about different subjects and I like gifs (I think you've already noticed lol :P) <img src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-nyan.gif" width="35">
   
-  - 🐶❤ Animal lover
-  - <img src="https://github.com/littlebru/littlebru/blob/main/images/dino-love.gif" width="35"> Pixel art lover  
-  - 🤓 All the time learn something new
+  - Animal lover 🐶❤
+  - Pixel art lover  <img src="https://github.com/littlebru/littlebru/blob/main/images/totoro-nature.gif" width="35">
+  - All the time learn something new 🤓
   
   <br>
   
@@ -48,14 +48,14 @@
   
   <a href="https://www.linkedin.com/in/bru-gomes/"><img align="left" src="https://github.com/littlebru/littlebru/blob/main/images/linkedinBanner.png" width="300"></a>
    
-   - 🚦 Software Developer Intern at <a href="http://fotosensores.com">Fotosensores Tecnologias</a>
+   🚦 Software Developer Intern at <a href="http://fotosensores.com">Fotosensores Tecnologias</a>
   
-   - 📒 Undergraduate student in systems analysis and development at <a href="https://www.linkedin.com/company/fatecsjc/?originalSubdomain=br">Fatec</a>
+   📒 Undergraduate student in systems analysis and development at <a href="https://www.linkedin.com/company/fatecsjc/?originalSubdomain=br">Fatec</a>
   
-  -  🧠 Currently studying ![Kubernetes](https://img.shields.io/badge/-Kubernetes-7159c1?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-7159c1?style=flat-square&logo=docker&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-7159c1?style=flat-square&logo=Linux&logoColor=white)
-  
+   🧠 Currently studying ![Kubernetes]( https://img.shields.io/badge/Spring-7159c1?style=flat-square&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-7159c1?style=flat-square&logo=docker&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-7159c1?style=flat-square&logo=Linux&logoColor=white) ![GCP Foundations](https://img.shields.io/badge/GCP-7159c1?style=flat-square&logo=google-cloud&logoColor=white)
+ 
   <br>
-  
+  <!--![Kubernetes](https://img.shields.io/badge/-Kubernetes-7159c1?style=flat-square&logo=kubernetes&logoColor=white)-->
   <br>
   
 </details>
@@ -103,8 +103,8 @@
   </summary> <br>
   
  
-   <img src="https://github-readme-stats.vercel.app/api?username=littlebru&count_private&count_private&include_all_commits=true&show_icons=true&theme=react" width="48%" />
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebru&layout=compact&theme=react&hide=jupyter%20notebook,html" width="40%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=littlebru&count_private&count_private&include_all_commits=true&show_icons=true&theme=tokyonight" width="48%" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebru&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html" width="40%" />
   
 
  
