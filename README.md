@@ -16,7 +16,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/bru-gomes)
 [![email Badge](https://img.shields.io/badge/Email-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:brunaclegomes@hotmail.com)](mailto:brunaclegomes@hotmail.com)
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/_littlebru)
+<!--[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/_littlebru)-->
 <!--<a href="https://littlebru.github.io/maintance/maintance.html"><img src="https://github.com/littlebru/littlebru/blob/main/images/pocao.gif"  width="115"></a>-->
 
 </p>
@@ -29,7 +29,7 @@
     <img src="https://github.com/littlebru/littlebru/blob/main/images/heart-pink.png" width="15">    About Me
   </summary> <br>
   
- -  I am very **empathetic**, **creative** and **observer**.  <img src="https://github.com/littlebru/littlebru/blob/main/images/tech.gif" width="35">
+ -  I am very **empathetic**, **creative** and **observer**.  <img src="https://github.com/littlebru/littlebru/blob/main/images/cute-girl.gif" width="25">
  -  I speak Portuguese, English and I know a little Spanish language. 💬 
  -  Fun fact: I also like to talk about different subjects and I like gifs (I think you've already noticed lol :P) <img src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-nyan.gif" width="35">
   
