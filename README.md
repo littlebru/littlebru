@@ -104,7 +104,7 @@
   
  
    <img src="https://github-readme-stats.vercel.app/api?username=littlebru&count_private&count_private&include_all_commits=true&show_icons=true&theme=tokyonight" width="48%" />
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebru&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html" width="40%" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebru&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css,scss" width="40%" />
   
 
  
