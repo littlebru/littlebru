@@ -11,7 +11,7 @@
 <p align="left">
   
   I'm very glad to see you here!!!<br>
-  I'm Bruna Gomes, a software developer in training.<br><br>
+  I'm Bruna Gomes, a software developer<br><br>
   You can find my projects here on <a href="https://github.com/littlebru?tab=repositories">**GitHub**</a> and you can also find me on the web:
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/bru-gomes)
@@ -48,7 +48,7 @@
   
   <a href="https://www.linkedin.com/in/bru-gomes/"><img align="left" src="https://github.com/littlebru/littlebru/blob/main/images/linkedinBanner.png" width="300"></a>
    
-   🚦 Software Developer Intern at <a href="http://fotosensores.com">Fotosensores Tecnologias</a>
+   🚦 Junior Software Developer at <a href="http://fotosensores.com">Fotosensores Tecnologias</a>
   
    📒 Undergraduate student in systems analysis and development at <a href="https://www.linkedin.com/company/fatecsjc/?originalSubdomain=br">Fatec</a>
   
