@@ -5,7 +5,7 @@
 
 <img align="center" src="https://github.com/littlebru/littlebru/blob/main/images/rainbow-line.png">
 
-<img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/cat.gif" alt="coffee cat" width="200">
+<img align="right" src="https://github.com/littlebru/littlebru/blob/main/images/dino-love.gif" alt="love pixel art" width="260">
 
 
 <p align="left">
